@@ -20,7 +20,7 @@ You can use online compiler that is specified in the workshop. Or you can instal
   npm install
 ```
 
-3. After the installation, run the project and open the port listed in the terminal
+3. After the installation, run the project and open the url that listed in the terminal
 
 ```bash
   npm run dev
